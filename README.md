@@ -4,7 +4,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 ## By ArpitVaishy ( URL~ https://github.com/user/arpitvaishy )
 ~~ Join @InternetEmperor for gaining enlightenment ~~
-
+~~ You can also join @TheImperialCompany for becoming one of the first and finest around the globe.
 In each single file there is a major change from base code, it's almost totally different. Here some of features and fixes that I remember.
 
 ### qBittorrent
